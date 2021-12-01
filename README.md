@@ -1,4 +1,4 @@
-### About the project
+### About the project 🐍
 
 My first mobile game. I created smart snakes that live in 3D aquarium.
 Their task to eat as much food as possible, who ate more and did not die the winner.
