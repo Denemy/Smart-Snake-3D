@@ -9,4 +9,6 @@ In the game settings, you can select the number of snakes and their speed,
 turn off or turn on the sound.
 You can solve the dispute or just play with friends to bet on the snake;)
 
+### Demonstration 👀
+
 ![Alt Text](https://media3.giphy.com/media/4Zw5B5u3t2TJqLZpWH/giphy.gif?cid=790b7611fd36e172c5c59e57451b8fd36edfb4ff1c55fd32&rid=giphy.gif)
