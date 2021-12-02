@@ -8,7 +8,7 @@ I also added pretty cute soundtrack and animation of food eating.
 In the game settings, you can select the number of snakes and their speed,
 turn off or turn on the sound.
 You can solve the dispute or just play with friends to bet on the snake.
-The code is clean, beautifully decorated and explained. Everything for you ;)
+The code is clean, beautifully decorated and explained, everything for you ;)
 
 ### Demonstration 👀
 
